@@ -10,9 +10,9 @@ Git. Попробуйте создать свой тестовый репози�
 них есть UI Git, который поможет им пользоваться без ввода команд (не всегда) +
 статический анализ кода.
 
-<img src="https://imgur.com/ZO57fiW" alt="Микросервисная архитектура">
+<img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/data-driven-crud-microservice/internal-design-simple-crud-microservices.png" alt="Внутренняя структура простой микрослужбы CRUD">
 
-<img src="https://imgur.com/EIKj7gd" alt="Data-Drive/CRUD microservice container">
+<img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/data-driven-crud-microservice/simple-data-driven-crud-microservice.png" alt="Структура простой микрослужбы CRUD на основе данных">
 
 А теперь список того, в чём вам, как минимум, придётся разобраться:
 
